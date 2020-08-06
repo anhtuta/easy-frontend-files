@@ -1,0 +1,10 @@
+hook: là 1 hàm, giống như điểm neo ở những method state, props, lifecycle, tức là khi state hay lifecycle change, thì hook đó được gọi
+
+Hook chỉ dùng trong functional component, ko dùng được trong class component
+
+npm start, npm build... là viết tắt của npm run start, npm run build
+
+=====
+Add font-awesome như nào
+Axios
+Component table, input...
